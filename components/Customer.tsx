@@ -8,7 +8,7 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
-import DeleteCustomer from "./deleteCustomer";
+import DeleteCustomer from "./DeleteCustomer";
 import EditCustomer from "./EditCustomer";
 
 export async function Customer() {
